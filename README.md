@@ -1,0 +1,1 @@
+Aplicación didáctica en la que reutilizamos el código del repositorio HolaMundoServer pero añadiendo continuidad para que el servidor acepte continuamente mensajes del cliente y los devuelva tal cual. con el fin de entender el flujo básico
